@@ -1,6 +1,8 @@
 <template>
     <div>
        <Todo/>
+       <input type="text">
+       <button> Add </button>
     </div>
 </template>
 
